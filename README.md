@@ -4,7 +4,7 @@
 **<p align="center">My Journey :thought_balloon:</p>**
 
 <p align="center">
-  <a href="https://www.notion.so/19de399309ac49adbc14dee97da598df?pvs=4">
+  <a href="https://www.notion.so/Resume-c5ede6d9f28c4df29fbcb8ebcfb2216d?pvs=4">
     <img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat-square&logo=Notion&logoColor=white" alt="Notion">
   </a>
   <a href="https://velog.io/@mvdata12/posts">
@@ -38,7 +38,7 @@
 <p align="center">
   <strong><a> Email :e-mail: </a></strong>
   <br>
-  <a>ahh0123@naver.com</a>
+  <a>yeonsulee87@gmail.com</a>
 </p>
 
 **<p align="center"> Stacks 🛠 </p>**
